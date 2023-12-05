@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\Factoreil\Factoreil\obj\Debug\Factoreil.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Factoreil\Factoreil\obj\Debug\Factoreil.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Factoreil\Factoreil\bin\Debug\Factoreil.exe.config
+C:\Users\Asus\Desktop\Factoreil\Factoreil\bin\Debug\Factoreil.exe
+C:\Users\Asus\Desktop\Factoreil\Factoreil\bin\Debug\Factoreil.pdb
+C:\Users\Asus\Desktop\Factoreil\Factoreil\obj\Debug\Factoreil.exe
+C:\Users\Asus\Desktop\Factoreil\Factoreil\obj\Debug\Factoreil.pdb
